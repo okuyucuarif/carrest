@@ -7,7 +7,7 @@ GET key ile sorgu  için. http://localhost:8080/api/cars/searchKey/{key}
 
 GET tüm arabalar için. http://localhost:8080/api/cars/searchCriteria/{criter}
 
-Servis Postman kullanılarak test edilmiştir.
+Servis Postman kullanılarak test edilmiştir.Eclipse IDE'si kullanılarak çalıştırılmıştır.Spring boot olduğu için herhangi bir server kullanmadan(Tomcat vs.) otomatik olarak çalıştırılmıştır. 
 Sistemin mimarisi aşağıdaki gibidir.
 
 ![1](https://user-images.githubusercontent.com/23105887/84574107-2b8f9900-adad-11ea-9210-dc9963ccc9d9.PNG)
